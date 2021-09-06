@@ -41,7 +41,7 @@ This is how a pizza object might look like in the database / in Frontend Context
   * Setup a database "pizza_db" in Compass or ATLAS directly
   * Setup a basic backend with a home route
   * Create a pizza model
-  * A pizza document should look like this: ....
+    * see the data spec above for a schema suggestion
   * Add a route /pizzas to get pizzas from the database
   * Create a seed script to store some pizzas there
   * Add CORS to allow accessing the pizzas route from your frontend
