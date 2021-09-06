@@ -152,6 +152,7 @@ This way you declare an array which can hold any JavaScript array data (no stric
     * On every subsequent buy
       * UPDATE the cart object in state + make an UPDATE call (PATCH / PUT) to the Backend
 
+<br /><br />
 
 ## General instructions
 
