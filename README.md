@@ -62,6 +62,8 @@ This is how a pizza object might look like in the database / in Frontend Context
   * Integrate the fetch call for getting pizzas
 
 
+<br /><br />
+
 ## :2nd_place_medal: SILVER EDITION: Admin Page for Pizzas
 
 In this edition we wanna allow full CRUD on our pizza store. 
@@ -87,6 +89,7 @@ In this edition we wanna allow full CRUD on our pizza store.
     * Check if the change was created at the API too
     * Either start the API and call the /pizzas route or check the database entries in Compass / ATLAS
 
+<br /><br />
 
 ## :trophy:	PLATINUM EDITION: The CART Page
 
