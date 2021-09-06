@@ -16,7 +16,7 @@ See a demo of the desired end result here:
 Please develop this app in three stages / editions. See below...
 
 
-## BASIC Edition - The Pizza List
+## :3rd_place_medal: BASIC Edition - The Pizza List 
 
 In this edition we wanna provide a basic page listing all pizzas available in our store.
 
