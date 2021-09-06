@@ -158,6 +158,6 @@ This way you declare an array which can hold any JavaScript array data (no stric
 
 - Split up the team and code backend & frontend part in parallel
 - Please use SEPARATE repositories for backend & frontend code!
-- Once the backend part is ready, frontend can integrate that part by adding FETCH calls
+- Ideally: Create an GitHub organisation and add all your teachers to it as members / collaborators
 - Please use branches for coding & pull requests for integrating a new feature into the main branch
 
