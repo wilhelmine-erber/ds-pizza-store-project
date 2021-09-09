@@ -163,8 +163,14 @@ This way you declare an array which can hold any JavaScript array data (no stric
 
 ## Resources
 
-- Wondering how to perform these freaky fetch calls against the API from React for GET, POST, PATCH/PUT, DELETE? And what to do with the results?
-  - Checkout the API connect guide with Fetch examples: https://github.com/losrobbos/api-connect-guide#using-fetch
+### Fetch & State Updates
 
-- Wondering how to do Git Branching & Merging in a team? 
-  - Checkout this mini guide on the GitHub Flow method with concrete GIT commands for your branching workflow: https://github.com/losrobbos/github-flow-guide/blob/main/GIT_WORKFLOW.github.md
+Wondering how to perform these freaky fetch calls against the API from React for GET, POST, PATCH/PUT, DELETE? And what to do with the results to keep central data (API) and local data (state) in sync?
+
+Checkout the API connect guide with Fetch examples: https://github.com/losrobbos/api-connect-guide#using-fetch
+
+### Gitty gitty...
+
+Wondering how to do Git Branching & Merging in a team? 
+
+Checkout this mini guide on the GitHub Flow method with concrete GIT commands for your branching workflow: https://github.com/losrobbos/github-flow-guide/blob/main/GIT_WORKFLOW.github.md
