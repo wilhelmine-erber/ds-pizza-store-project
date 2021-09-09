@@ -161,3 +161,10 @@ This way you declare an array which can hold any JavaScript array data (no stric
 - Ideally: Create an GitHub organisation and add all your teachers to it as members / collaborators
 - Please use branches for coding & pull requests for integrating a new feature into the main branch
 
+## Resources
+
+- Wondering how to perform these freaky fetch calls against the API from React for GET, POST, PATCH/PUT, DELETE? And what to do with the results?
+  - Checkout the API connect guide with Fetch examples: https://github.com/losrobbos/api-connect-guide#using-fetch
+
+- Wondering how to do Git Branching & Merging in a team? 
+  - Checkout this mini guide on the GitHub Flow method with concrete GIT commands for your branching workflow: https://github.com/losrobbos/github-flow-guide/blob/main/GIT_WORKFLOW.github.md
