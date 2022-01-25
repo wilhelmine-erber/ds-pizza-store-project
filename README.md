@@ -169,7 +169,7 @@ Wondering how to perform these freaky fetch calls against the API from React for
 
 Checkout the API connect guide with Fetch examples: https://github.com/losrobbos/api-connect-guide#using-fetch
 
-### Gitty gitty...
+### Gitty gitty
 
 Wondering how to do Git Branching & Merging in a team? 
 
